@@ -81,9 +81,8 @@ Location: Mirpur 13, Dhaka, Bangladesh
 
 ## 🔗 Links
 
-Source Code: GitHub Repository
-
-Live Site: Hero App Website
+- **Source Code:** [GitHub Repository](https://github.com/EmonHira135923/Hero-App)
+- **Live Site:** [Hero App Website](https://hero-app-website.netlify.app/)
 
 ##
 
