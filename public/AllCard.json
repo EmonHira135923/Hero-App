@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/whL9HVGx/Keep.png",
+    "title": "Google Keep",
+    "companyName": "Google LLC",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 50,
+    "reviews": 50000,
+    "ratingAvg": 4.6,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/4ZYStY88/Chorme.jpg",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 80,
+    "reviews": 75000,
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/GvzJR2bb/instra.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 120,
+    "reviews": 100000,
+    "ratingAvg": 4.5,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/Sw8Qv6H0/Whatsapp.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 150,
+    "reviews": 120000,
+    "ratingAvg": 4.8,
+    "downloads": "2B",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/ZpYR0PQ1/Spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify Technology S.A.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 200,
+    "reviews": 150000,
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/SXzMN2st/Telegram.png",
+    "title": "Telegram",
+    "companyName": "Telegram Messenger LLP",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 100,
+    "reviews": 80000,
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/bjYKCT76/Map.jpg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 250,
+    "reviews": 200000,
+    "ratingAvg": 4.8,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 80000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/8gKGC0N0/Youtube.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 180,
+    "reviews": 250000,
+    "ratingAvg": 4.7,
+    "downloads": "2B",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 180000 }
+    ]
+  },
+
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/tTw2jBxc/Facebook.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 170,
+    "reviews": 220000,
+    "ratingAvg": 4.5,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/TMknPNgd/tiktok2.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 130,
+    "reviews": 180000,
+    "ratingAvg": 4.6,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/Pz4WM22v/snapchat2.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 110,
+    "reviews": 90000,
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/676BdMKv/Reddit.png",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 140,
+    "reviews": 95000,
+    "ratingAvg": 4.3,
+    "downloads": "400M",
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/vx5bpXJT/slack.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 150,
+    "reviews": 85000,
+    "ratingAvg": 4.5,
+    "downloads": "600M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/XZLR1CSp/Microsoft.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 200,
+    "reviews": 120000,
+    "ratingAvg": 4.6,
+    "downloads": "700M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/Zzx30MNn/Dropbox.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 180,
+    "reviews": 90000,
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg",
+    "title": "Notion",
+    "companyName": "Notion Labs Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 130,
+    "reviews": 70000,
+    "ratingAvg": 4.5,
+    "downloads": "400M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co.com/tw498L79/Canva.jpg",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 110,
+    "reviews": 95000,
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co.com/fzQYPsgT/P.png",
+    "title": "Adobe Photoshop",
+    "companyName": "Adobe Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 250,
+    "reviews": 110000,
+    "ratingAvg": 4.7,
+    "downloads": "600M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co.com/1YCx0Z7x/Redder2.png",
+    "title": "Adobe Acrobat Reader",
+    "companyName": "Adobe Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 180,
+    "reviews": 85000,
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co.com/4gtv5g7v/businness.jpg",
+    "title": "WhatsApp Business",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.Meta Platforms, Inc. develops innovative and widely-used applications designed to connect people and enhance communication globally. Their apps include Instagram, enabling users to share photos, videos, and stories with friends and followers; WhatsApp Messenger, offering fast messaging, voice, and video calls with multimedia sharing capabilities; Facebook, a social networking platform to connect with friends, family, and communities; and WhatsApp Business, designed to help businesses communicate efficiently with customers. These apps focus on seamless connectivity, engagement, and social interaction, while also providing tools for business growth, content sharing, and community building across digital platforms worldwide.",
+    "size": 160,
+    "reviews": 70000,
+    "ratingAvg": 4.6,
+    "downloads": "400M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  }
+]
